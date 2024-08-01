@@ -11,3 +11,66 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/*home hero.js*/
+.text{
+  opacity: 0.7;
+}
+
+.size{
+  width: 15%;
+  margin: 0 auto;
+}
+
+/*awards*/
+.presslogo-width{
+  width: 90%;
+}
+
+/*stats*/
+.img-width{
+  width: 90%;
+}
+
+.stats-link{
+  text-decoration: none;
+}
+
+/*price*/
+.price-alink{
+  text-decoration: none;
+}
+
+/*education*/
+.educati-img{
+  width: 70%;
+}
+/*navbar*/
+
+.nav-bg{
+  background-color: #fff;
+}
+.navimg-width{
+  width: 25%;
+}
+.active:hover{
+color: white;
+opacity: 0.8;
+}
+
+.nav-link{
+  margin-left: 40px;
+}
+
+/*footer*/
+.footer-img{
+  width: 50%;
+}
+
+.space{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 40%;
+  opacity: 0.8;
+}
